@@ -5,5 +5,5 @@ This repository includes utility functions in r that i use very often.
 Convert character data frame into numeric data frame.
 
 ```
-df = char2numeric.df(data = data)
+df <- char2numeric.df(data = data)
 ```
